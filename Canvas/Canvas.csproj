@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
+    <RootNamespace>UMD.Canvas</RootNamespace>
+    <AssemblyName>UMD.Canvas</AssemblyName>
   </PropertyGroup>
 
 </Project>
